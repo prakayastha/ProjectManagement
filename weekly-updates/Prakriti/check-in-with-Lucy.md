@@ -2,8 +2,8 @@
 
 *Check-in meetings with Prakriti approximately once every week*
 
-[Date: 13th October 2021](#date-13-October-2021)
-### Date: 13 October 2021
+[Date: 20th October 2021](#date-20-October-2021)
+### Date: 20 October 2021
 
 **Who helped you this week?**
 Ben Levien along with the IT helpdesk helped with Oswald access
