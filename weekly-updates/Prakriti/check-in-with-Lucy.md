@@ -2,7 +2,32 @@
 
 *Check-in meetings with Prakriti approximately once every week*
 
+
+[Date: 3rd November 2021](#date-03-October-2021)
 [Date: 20th October 2021](#date-20-October-2021)
+
+
+### Date: 03 October 2021
+
+**Who helped you this week?**
+
+**What did you achieve?**
+
+**What did you struggle with?**
+
+**What would you like to work on next week?**
+- Access Archer via the Driving test
+- FHI aims and Vasp compilations
+
+**Where do you need help from Lucy?**
+- Arrange meeting with Giulia
+- Email Scott Woodley to remind re: Archer access
+- Arrange repeat meetings for Tuesday 10am
+- Send source code for AIMS
+- Contact Jonathan to ask about FHI-aims adaptations to the spectroscoPY - BORN file, dielectric constant from OUTCAR.
+- Add Prakriti to the Overleaf for the imaginary modes review
+- Create Zotero group for sharing files
+
 ### Date: 20 October 2021
 
 **Who helped you this week?**
@@ -28,3 +53,4 @@
 - Check with Lucy about what to do with the jupyter notebook next
 - What calculations I'm expected to run for the Chalcogenide perovskite project 
 - Reading material for an introduction to Raman and IR spectra in perovskite materials
+- Send makefiles for compiling vasp on Dade
