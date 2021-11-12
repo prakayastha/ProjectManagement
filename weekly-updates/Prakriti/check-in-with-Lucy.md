@@ -2,12 +2,29 @@
 
 *Check-in meetings with Prakriti approximately once every week*
 
-
-[Date: 3rd November 2021](#date-03-October-2021)
+[Date: 9th November 2021](#date-06-November-2021)
+[Date: 3rd November 2021](#date-03-November-2021)
 [Date: 20th October 2021](#date-20-October-2021)
+### Date: 09 November 2021
 
+**Who helped you this week?**
 
-### Date: 03 October 2021
+**What did you achieve?**
+
+**What did you struggle with?**
+- Still talking to Ben about Garrett access.
+**What would you like to work on next week?**
+- Access to the computers to start running DFT either through VASP/FHI-aims
+- Finish reading on superionic solids 
+- Finalise on the research proect draft for the ReNU website
+- Start working on the presentation for the CDT week and present a draft by the next meeting
+- Request for the 4 cabinet system on Archer as well 
+- CAMD registration 
+**Where do you need help from Lucy?**
+- Account on Dade 
+- Purchase of an office computer through the CDT grant
+
+### Date: 03 November 2021
 
 **Who helped you this week?**
 
