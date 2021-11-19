@@ -1,10 +1,34 @@
 # Check in meetings with Prakriti
 
 *Check-in meetings with Prakriti approximately once every week*
-
-[Date: 9th November 2021](#date-06-November-2021)
+[Date: 16th November 2021](#date-16-November-2021)
+[Date: 9th November 2021](#date-09-November-2021)
 [Date: 3rd November 2021](#date-03-November-2021)
 [Date: 20th October 2021](#date-20-October-2021)
+### Date: 16 November 2021
+**Who helped you this week?**
+- Meeting with Guilia regarding the chalcogenide perovskite project to give a clear experimetal motivation for the project
+- Lucy with the monitor, helps me be much more productive in the office
+**Who did you help this week?**
+- Checked in with Daniel's incoming student and helped her with her application from India
+**What did you achieve?**
+- Submitted the project descripton to Yongtao for the website
+- Drafted the CDT week presentation
+- Adding new text to the soft-phonons overleaf
+- Collecting new text on IR/Raman spectroscopy 
+- Finally have access to Archer2, start running serious DFT soon
+**What did you struggle with?**
+- Talking to Ben about being added to VASP group
+**What would you like to work on next week?**
+- Geometry relaxation of the chalcogenide perovskite, lowest energy phase from Materials Project/AFLOW/OQMD/ICSD
+- Run my first VASP calculation 
+- Verify if there are soft modes in the lowest energy phase, use the mode map code to find lower symmetry phase
+- Plan for spectroscoPY version with aims
+- Schematic diagrams for the soft-phonon modes
+**Where do you need help from Lucy?**
+- Job scripts on archer and vasp input files
+- With the purchasing department for the computer/conference payment 
+
 ### Date: 09 November 2021
 
 **Who helped you this week?**
