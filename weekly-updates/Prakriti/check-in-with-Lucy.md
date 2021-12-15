@@ -1,10 +1,61 @@
 # Check in meetings with Prakriti
 
 *Check-in meetings with Prakriti approximately once every week*
+[Date: 14th December 20201](#date-14-December-2021)
+[Date: 7th December 20201](#date-7-December-2021)
+[Date: 30th November 20201](#date-30-November-2021)
+[Date: 23rd November 20201](#date-23-November-2021)
 [Date: 16th November 2021](#date-16-November-2021)
 [Date: 9th November 2021](#date-09-November-2021)
 [Date: 3rd November 2021](#date-03-November-2021)
 [Date: 20th October 2021](#date-20-October-2021)
+### Date: 14th December 2021
+**Who helped you this week?**
+- Aims coordinators for the 
+**What did you achieve?**
+- Running aims on archer2 now but the free queue is insanely long, alternative methods on 4c or oswald. 
+- Complied aims myself (!!) from the git version on Oswald 
+**What did you struggle with?**
+- Sent Jimmy a word about being added to VASP group, no response
+
+**What would you like to work on next week?**
+- 
+### Date: 7th December 2021
+**Who helped you this week?**
+- Matthias with the aims binary for archer2, this is great can finally run this project with a code I am comfortable with
+**What did you achieve?**
+- Setting up aims for archer2
+- Running test calculations and benchmarks for grid and convergence settings
+- Settled on a phonon spectrum convergence critieria, supercells must incorporate octahedral tilting -- no odd expansions in supercells 
+**What did you struggle with?**
+- Sent Jimmy a word about being added to VASP group, no response
+
+**What would you like to work on next week?**
+- Prepare to fill in for Lucy's class next week
+- Get aims running on Oswald/Archer2
+### Date: 30 November 2021
+**What did you achieve?**
+- Ran my first VASP calculations, setting up with archer2
+- Following the tutorial series for VASP and getting acquainted with VASP
+
+**What did you struggle with?**
+- Sent Jimmy a word about being added to VASP group, no response
+
+**What would you like to work on next week?**
+- Get started with aims and plans for spectroscopy
+
+### Date: 23 November 2021
+**What did you achieve?**
+- Spoke at the CDT week presentation
+- Attended the CDT week presentations with all the other cohorts
+- Attended the FHI-aims lecture on ab initio thermodynamics calculations
+
+**What did you struggle with?**
+- Sent Jimmy a word about being added to VASP group, no response
+
+**What would you like to work on next week?**
+- Start on the VASP calulations, this is still not done 
+- 
 ### Date: 16 November 2021
 **Who helped you this week?**
 - Meeting with Guilia regarding the chalcogenide perovskite project to give a clear experimetal motivation for the project
@@ -32,7 +83,7 @@
 - Run my first VASP calculation 
 - Verify if there are soft modes in the lowest energy phase, use the mode map code to find lower symmetry phase
 - Plan for spectroscoPY version with aims
-- Schematic diagrams for the soft-phonon modes\
+- Schematic diagrams for the soft-phonon modes
 
 **Where do you need help from Lucy?**
 - Job scripts on archer and vasp input files
