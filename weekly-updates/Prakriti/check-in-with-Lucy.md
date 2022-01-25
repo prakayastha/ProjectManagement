@@ -12,10 +12,20 @@
 [Date: 3rd November 2021](#date-03-November-2021)
 [Date: 20th October 2021](#date-20-October-2021)
 ### Date: 24th January 2022
+**Who helped you this week?**
+- Ellie with the IOP and summer school payment! Looking forward to both these events
+- **What did you achieve?**
+- Had a long week of CDT training this week so not a lot of time for research work. 
+
 ### Date: 18th January 2022
+**Who helped you this week?**
+- Finally added to the VASP group, thanks to Jimmy? Ben? No sign off with the IT ticket
+**What did you achieve?**
+- Updated the soft modes overleaf, worked on the project approval
+- Phonon spectra work for the perovskite project, going to text and equations on finite displacement methods
 ### Date: 14th December 2021
 **Who helped you this week?**
-- Aims coordinators for the 
+- Aims coordinators for the help with Born effective charges info, new aims version
 **What did you achieve?**
 - Running aims on archer2 now but the free queue is insanely long, alternative methods on 4c or oswald. 
 - Complied aims myself (!!) from the git version on Oswald 
