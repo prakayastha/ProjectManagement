@@ -1,6 +1,8 @@
 # Check in meetings with Prakriti
 
 *Check-in meetings with Prakriti approximately once every week*
+[Date: 24th January 2022](#date-24-November-2022)
+[Date: 18th January 2022](#date-18-November-2022)
 [Date: 14th December 2021](#date-14-December-2021)
 [Date: 7th December 2021](#date-7-December-2021)
 [Date: 30th November 2021](#date-30-November-2021)
@@ -9,6 +11,8 @@
 [Date: 9th November 2021](#date-09-November-2021)
 [Date: 3rd November 2021](#date-03-November-2021)
 [Date: 20th October 2021](#date-20-October-2021)
+### Date: 24th January 2022
+### Date: 18th January 2022
 ### Date: 14th December 2021
 **Who helped you this week?**
 - Aims coordinators for the 
